@@ -15,3 +15,4 @@ def request(weather_url: str) -> object:
 for city in urls:
     print(request(city).text)
 
+
