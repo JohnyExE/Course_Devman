@@ -1,0 +1,13 @@
+
+-----------------------------------------GIT-----------------------------------------
+
+git --version
+git config --global user.name <..>              : задание имени. В двойных кавычках после - имя и фамилия
+git config --global user.email                  : задание емэйла
+git config --list                               : проверка настроек
+
+git config --global user.name "PROCESSOR"
+git config --global user.email processor.exe@gmail.com
+
+git init                                        : создание нового репозитория. Надо писать в той папке где создаём.
+
